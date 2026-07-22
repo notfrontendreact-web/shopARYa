@@ -1,0 +1,6 @@
+{
+  "name": "فروشگاه آنلاین آریا | Arya Modern Store",
+  "description": "فروشگاه آنلاین مدرن و پیشرفته با فرانت‌اند واکنش‌گرا و بک‌اند نودجی‌اس با ۶ منوی اصلی و زیرمنو، لیست کامل محصولات، سبد خرید، پشتیبانی هوش مصنوعی و امکانات پیشرفته.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
